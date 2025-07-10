@@ -58,7 +58,7 @@
   {
     "name": "Leaf",
     "type": "SERVER",
-    "isPaperclip": true,
+    "isPaperclip": false,
     "latestVersion": "1.21.6",
     "downloadLinks": [
       {
