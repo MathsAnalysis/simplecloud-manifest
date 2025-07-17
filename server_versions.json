@@ -1,5 +1,17 @@
 [
   {
+    "name": "VelecityCTD",
+    "type": "PROXY",
+    "isPaperclip": false,
+    "latestVersion": "3.4.0-SNAPSHOT",
+    "downloadLinks": [
+      {
+        "version": "3.4.0-SNAPSHOT",
+        "link": "https://github.com/GemstoneGG/Velocity-CTD/releases/download/Releases/velocity-proxy-3.4.0-SNAPSHOT-all.jar"
+      }
+    ]
+  },
+  {
     "name": "Velocity",
     "type": "PROXY",
     "isPaperclip": false,
